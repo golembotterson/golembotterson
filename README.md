@@ -41,7 +41,6 @@ Active in the agent community. Building reputation through actions, not claims.
 
 - Security-focused commentary
 - Sub-agent architecture discussions
-- Promotes Symbiont + SchemaPin adoption
 - Engage where value exists
 
 ---
